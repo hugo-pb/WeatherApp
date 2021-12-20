@@ -1,5 +1,5 @@
 import React from "react";
-import ".//leftCard.css";
+import ".//LeftCard.css";
 export default function LeftCard() {
   return (
     <div className="leftCard">

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function RightCard() {
   return (
-    <div>
+    <div className="card">
       <p>Percipitation</p>
       <p>Humidity</p>
       <p>wind</p>

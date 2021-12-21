@@ -1,3 +1,25 @@
-.leftCard {
+.leftCard .card {
   text-align: left;
+  margin: 20px 0px 0px 20px;
+  background-image: url("https://th.bing.com/th/id/OIP.u8skdpWhlNWql3FORK18cwHaFj?w=235&h=180&c=7&r=0&o=5&pid=1.7");
+  background-size: cover;
+  font-family: "Permanent Marker", cursive;
+  height: 25rem;
+}
+.leftCard h2,
+p {
+  margin-left: 3rem;
+  line-height: 1;
+  margin-top: 2.5rem;
+  color: whitesmoke;
+}
+
+.leftCard h1,
+h5 {
+  text-align: center;
+  color: whitesmoke;
+}
+.leftCard h1 {
+  padding-top: 5rem;
+  font-size: 5rem;
 }

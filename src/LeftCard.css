@@ -5,6 +5,8 @@
   background-size: cover;
   font-family: "Permanent Marker", cursive;
   height: 25rem;
+  z-index: 100;
+  border-radius: 10px;
 }
 .leftCard h2,
 p {

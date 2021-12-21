@@ -1,5 +1,5 @@
 import React from "react";
-import "./ChangeCity.css";
+import "/src/style/ChangeCity.css";
 export default function ChangeCity() {
   return (
     <form className="ChangeCity">

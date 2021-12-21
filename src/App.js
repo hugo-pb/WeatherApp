@@ -1,7 +1,7 @@
 import React from "react";
-import "./styles.css";
-import LeftCard from "./LeftCard";
-import RightCard from "./RightCard";
+import "./style/styles.css";
+import LeftCard from "./components/LeftCard";
+import RightCard from "./components/RightCard";
 export default function App() {
   return (
     <div className="App">

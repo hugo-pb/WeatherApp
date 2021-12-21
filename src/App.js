@@ -6,12 +6,14 @@ export default function App() {
   return (
     <div className="App">
       <div className="row">
-        <div className="col-md-6">
+        <div className="col-md-2"> </div>
+        <div className="col-md-5">
           <LeftCard />
         </div>
-        <div className="col-md-6">
+        <div className="col-md-3">
           <RightCard />
         </div>
+        <div className="col-md-2"> </div>
       </div>
     </div>
   );

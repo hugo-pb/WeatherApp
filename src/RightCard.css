@@ -5,13 +5,19 @@
   height: 20rem;
   text-align: center;
 }
-
+.RightCard .info {
+  margin-left: -1rem;
+}
 .RightCard Ul {
   list-style-type: none;
   margin-top: 1.5rem;
+  margin-left: ;
   color: whitesmoke;
 }
 .RightCard .week {
   display: flex;
   margin-left: -1rem;
+  justify-content: center;
+  align-content: center;
+  margin-right: 1rem;
 }

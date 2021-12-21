@@ -22,6 +22,10 @@ h5 {
   color: whitesmoke;
 }
 .leftCard h1 {
-  padding-top: 5rem;
+  font-size: 5rem;
+}
+.leftCard h3 {
+  text-align: center;
+  color: whitesmoke;
   font-size: 5rem;
 }

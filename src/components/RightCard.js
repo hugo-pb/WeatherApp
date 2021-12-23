@@ -1,6 +1,6 @@
 import React from "react";
 import "/src/style/RightCard.css";
-import ChangeCity from "/src/components/LeftCard/ChangeCity.js";
+import ChangeCity from "/src/components/RightCard/ChangeCity.js";
 export default function RightCard() {
   return (
     <div className="RightCard">

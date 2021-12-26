@@ -2,13 +2,14 @@ import React from "react";
 import "./style/styles.css";
 import LeftCard from "./components/LeftCard";
 import RightCard from "./components/RightCard";
+import "/src/components/RightCard/ChangeCity.js";
 export default function App() {
   return (
     <div className="App">
       <div className="row">
         <div className="col-sm-2"> </div>
         <div className="col-sm-5">
-          <LeftCard />
+          <LeftCard city={city} />
         </div>
         <div className="col-sm-3">
           <RightCard />

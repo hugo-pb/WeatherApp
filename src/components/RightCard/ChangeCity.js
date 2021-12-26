@@ -1,9 +1,11 @@
 import React, { useState } from "react";
 import "/src/style/ChangeCity.css";
-import LeftCard from "/src/components/LeftCard";
+import "/src/components/LeftCard";
 import "/src/components/RightCard";
+import "/src/App";
 export default function ChangeCity() {
   let [city, setCity] = useState("");
+
   function newCity(event) {
     event.preventDefault();
   }
